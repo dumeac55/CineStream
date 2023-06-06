@@ -1,0 +1,7 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\bin\Debug\MovieHandler.exe.config
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\bin\Debug\MovieHandler.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\bin\Debug\MovieHandler.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\obj\Debug\MovieHandler.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\obj\Debug\MovieHandler.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\obj\Debug\MovieHandler.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\MovieHandler\obj\Debug\MovieHandler.pdb

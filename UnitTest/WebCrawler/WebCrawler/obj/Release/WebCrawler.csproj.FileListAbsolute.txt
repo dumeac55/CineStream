@@ -1,0 +1,12 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe.config
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\WebCrawler.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\WebCrawler.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\Movies.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\bin\Release\HtmlAgilityPack.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\obj\Release\WebCrawler.csproj.CopyComplete
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\obj\Release\WebCrawler.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\WebCrawler\WebCrawler\obj\Release\WebCrawler.pdb

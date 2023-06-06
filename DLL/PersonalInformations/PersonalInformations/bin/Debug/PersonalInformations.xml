@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PersonalInformations</name>
+    </assembly>
+    <members>
+        <member name="T:PersonalInformations.Person">
+            <summary>
+            Reprezintă o clasă care definește o persoană.
+            </summary>
+        </member>
+        <member name="P:PersonalInformations.Person.Username">
+            <summary>
+            Obține sau setează numele de utilizator al persoanei.
+            </summary>
+        </member>
+        <member name="P:PersonalInformations.Person.Password">
+            <summary>
+            Obține sau setează parola persoanei.
+            </summary>
+        </member>
+        <member name="P:PersonalInformations.Person.Email">
+            <summary>
+            Obține sau setează adresa de email a persoanei.
+            </summary>
+        </member>
+        <member name="P:PersonalInformations.Person.FirstName">
+            <summary>
+            Obține sau setează prenumele persoanei.
+            </summary>
+        </member>
+        <member name="P:PersonalInformations.Person.LastName">
+            <summary>
+            Obține sau setează numele de familie al persoanei.
+            </summary>
+        </member>
+        <member name="M:PersonalInformations.Person.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Inițializează o nouă instanță a clasei Person cu valorile primite ca parametri.
+            </summary>
+            <param name="username">Numele de utilizator al persoanei.</param>
+            <param name="password">Parola persoanei.</param>
+            <param name="email">Adresa de email a persoanei.</param>
+            <param name="firstName">Prenumele persoanei.</param>
+            <param name="lastName">Numele de familie al persoanei.</param>
+        </member>
+    </members>
+</doc>

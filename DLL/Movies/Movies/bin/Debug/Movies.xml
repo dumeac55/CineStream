@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Movies</name>
+    </assembly>
+    <members>
+        <member name="T:Movies.Movie">
+            <summary>
+            clasa ce modeleaza informatiile vizate despre un film
+            </summary>
+        </member>
+        <member name="M:Movies.Movie.#ctor(System.String,System.Int32,System.Collections.Generic.List{System.String},System.String,System.Double,System.String)">
+            <summary>
+            Constructor ce seteaza membrii unei clase
+            </summary>
+            <param name="title">Titlul filmului</param>
+            <param name="year">Anul aparitiei filmului</param>
+            <param name="genres">Genurile filmului</param>
+            <param name="description">Descrierea filmului</param>
+            <param name="rating">Ratingul filmului</param>
+        </member>
+        <member name="T:Movies.MovieList">
+            <summary>
+            Clasa care gestioneaza o lista de filme de un anumit tip
+            </summary>
+        </member>
+        <member name="M:Movies.MovieList.#ctor(System.Collections.Generic.List{Movies.Movie})">
+            <summary>
+            Constructor ce primeste o referinta la lista de filme
+            </summary>
+            <param name="list"></param>
+        </member>
+        <member name="P:Movies.MovieList.Movies">
+            <summary>
+            Getter pentru lista de filme
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Movies.MovieList.SetMovies(System.Collections.Generic.List{Movies.Movie})">
+            <summary>
+            Setter pentru lista de filme
+            </summary>
+            <param name="movieList"></param>
+        </member>
+    </members>
+</doc>

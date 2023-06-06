@@ -1,0 +1,7 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\bin\Debug\Movies.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\bin\Debug\Movies.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\obj\Debug\Movies.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\obj\Debug\Movies.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\obj\Debug\Movies.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\Movies\Movies\bin\Debug\Movies.xml

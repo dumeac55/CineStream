@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cryptography</name>
+    </assembly>
+    <members>
+        <member name="M:Cryptography.Cryptograph.#ctor">
+            <summary>
+            Seteaza cheia unica
+            </summary>
+        </member>
+        <member name="M:Cryptography.Cryptograph.EncryptString(System.String,System.String)">
+            <summary>
+            Cripteaza textul in functie de key
+            </summary>
+            <param name="key">cheia unica</param>
+            <param name="plainText">textul ce trebuie criptat</param>
+            <returns>textul criptat</returns>
+        </member>
+        <member name="M:Cryptography.Cryptograph.DecryptString(System.String,System.String)">
+            <summary>
+            Decripteaza textul in functie de key
+            </summary>
+            <param name="key">cheia unica</param>
+            <param name="cipherText">textul ce trebuie decriptat</param>
+            <returns>textul decriptat</returns>
+        </member>
+    </members>
+</doc>

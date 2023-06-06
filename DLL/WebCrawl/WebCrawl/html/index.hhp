@@ -1,0 +1,84 @@
+[OPTIONS]
+Compiled file=WebCrawler.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=WebCrawl
+
+[WINDOWS]
+main="WebCrawl","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+annotated.html
+class_implementation_web_scraper_genres-members.html
+class_implementation_web_scraper_genres.html
+class_web_crawl_1_1_all_web_screaper-members.html
+class_web_crawl_1_1_all_web_screaper.html
+class_web_crawl_1_1_genre_web_scraper-members.html
+class_web_crawl_1_1_genre_web_scraper.html
+class_web_crawl_1_1_implementation_web_scraper_all-members.html
+class_web_crawl_1_1_implementation_web_scraper_all.html
+class_web_crawl_1_1_implementation_web_scraper_years-members.html
+class_web_crawl_1_1_implementation_web_scraper_years.html
+class_web_crawl_1_1_web_crawler-members.html
+class_web_crawl_1_1_web_crawler.html
+class_web_crawl_1_1_year_web_scraper-members.html
+class_web_crawl_1_1_year_web_scraper.html
+classes.html
+dir_0ac90a9522d234ad052cbf531cb2a802.html
+dir_485b37b303cd4f71e9a89f3cb60b779e.html
+dir_6fd726e51d415569c254b75e270082e7.html
+dir_e6b5797126c86a2a75a7e42077ed4902.html
+functions.html
+functions_func.html
+hierarchy.html
+index.html
+interface_web_crawl_1_1_i_implementation_web_scraper-members.html
+interface_web_crawl_1_1_i_implementation_web_scraper.html
+interface_web_crawl_1_1_i_web_scraper-members.html
+interface_web_crawl_1_1_i_web_scraper.html
+namespace_web_crawl.html
+namespaces.html
+bc_s.png
+bc_sd.png
+bdwn.png
+class_implementation_web_scraper_genres.png
+class_web_crawl_1_1_all_web_screaper.png
+class_web_crawl_1_1_genre_web_scraper.png
+class_web_crawl_1_1_implementation_web_scraper_all.png
+class_web_crawl_1_1_implementation_web_scraper_years.png
+class_web_crawl_1_1_year_web_scraper.png
+closed.png
+doc.png
+docd.png
+doxygen.svg
+folderclosed.png
+folderopen.png
+interface_web_crawl_1_1_i_implementation_web_scraper.png
+interface_web_crawl_1_1_i_web_scraper.png
+nav_f.png
+nav_fd.png
+nav_g.png
+nav_h.png
+nav_hd.png
+open.png
+splitbar.png
+splitbard.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_ad.png
+tab_b.png
+tab_bd.png
+tab_h.png
+tab_hd.png
+tab_s.png
+tab_sd.png
+doxygen.css
+dynsections.js
+jquery.js
+tabs.css

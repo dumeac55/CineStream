@@ -1,0 +1,17 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\UnitTestPerson.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\UnitTestPerson.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Person.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Person.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Person.exe.config
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\obj\Debug\UnitTestPerson.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\obj\Debug\UnitTestPerson.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\obj\Debug\UnitTestPerson.csproj.CopyComplete
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\obj\Debug\UnitTestPerson.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\Person\UnitTestPerson\obj\Debug\UnitTestPerson.pdb

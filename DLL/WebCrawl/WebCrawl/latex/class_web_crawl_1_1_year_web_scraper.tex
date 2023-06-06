@@ -1,0 +1,75 @@
+\hypertarget{class_web_crawl_1_1_year_web_scraper}{}\doxysection{Web\+Crawl.\+Year\+Web\+Scraper Class Reference}
+\label{class_web_crawl_1_1_year_web_scraper}\index{WebCrawl.YearWebScraper@{WebCrawl.YearWebScraper}}
+
+
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme în funcție de popularitate primind ca argument anul lansării. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului.  
+
+
+Inheritance diagram for Web\+Crawl.\+Year\+Web\+Scraper\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_web_crawl_1_1_year_web_scraper}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_web_crawl_1_1_year_web_scraper_aaec5c399b1cfc6c83c3bbba2008d4697}{Year\+Web\+Scraper}} (int year)
+\begin{DoxyCompactList}\small\item\em Constructor care primește ca argument anul din care se caută filmele. \end{DoxyCompactList}\item 
+Movie\+List \mbox{\hyperlink{class_web_crawl_1_1_year_web_scraper_aed7704ca7702fd200f2df8e5cfeded83}{Get\+Movies}} (int movies\+Nr)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul pe genuri de pe IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\begin{DoxyCompactItemize}
+\item 
+Movie\+List \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Get\+Movies}} (int nr\+Movies)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe una din paginile IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme în funcție de popularitate primind ca argument anul lansării. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_web_crawl_1_1_year_web_scraper_aaec5c399b1cfc6c83c3bbba2008d4697}\label{class_web_crawl_1_1_year_web_scraper_aaec5c399b1cfc6c83c3bbba2008d4697}} 
+\index{WebCrawl.YearWebScraper@{WebCrawl.YearWebScraper}!YearWebScraper@{YearWebScraper}}
+\index{YearWebScraper@{YearWebScraper}!WebCrawl.YearWebScraper@{WebCrawl.YearWebScraper}}
+\doxysubsubsection{\texorpdfstring{YearWebScraper()}{YearWebScraper()}}
+{\footnotesize\ttfamily Web\+Crawl.\+Year\+Web\+Scraper.\+Year\+Web\+Scraper (\begin{DoxyParamCaption}\item[{int}]{year }\end{DoxyParamCaption})}
+
+
+
+Constructor care primește ca argument anul din care se caută filmele. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em year} & Anul de căutare a filmelor\\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_web_crawl_1_1_year_web_scraper_aed7704ca7702fd200f2df8e5cfeded83}\label{class_web_crawl_1_1_year_web_scraper_aed7704ca7702fd200f2df8e5cfeded83}} 
+\index{WebCrawl.YearWebScraper@{WebCrawl.YearWebScraper}!GetMovies@{GetMovies}}
+\index{GetMovies@{GetMovies}!WebCrawl.YearWebScraper@{WebCrawl.YearWebScraper}}
+\doxysubsubsection{\texorpdfstring{GetMovies()}{GetMovies()}}
+{\footnotesize\ttfamily Movie\+List Web\+Crawl.\+Year\+Web\+Scraper.\+Get\+Movies (\begin{DoxyParamCaption}\item[{int}]{movies\+Nr }\end{DoxyParamCaption})}
+
+
+
+Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul pe genuri de pe IMDb. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em movies\+Nr} & Numărul de filme de returnat\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O listă de filme
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Web\+Crawl.\+IWeb\+Scraper}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Web\+Crawl/Year\+Web\+Scraper.\+cs\end{DoxyCompactItemize}

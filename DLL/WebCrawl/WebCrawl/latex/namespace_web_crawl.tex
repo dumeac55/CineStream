@@ -1,0 +1,21 @@
+\hypertarget{namespace_web_crawl}{}\doxysection{Web\+Crawl Namespace Reference}
+\label{namespace_web_crawl}\index{WebCrawl@{WebCrawl}}
+\doxysubsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_all_web_screaper}{All\+Web\+Screaper}}
+\begin{DoxyCompactList}\small\item\em Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_genre_web_scraper}{Genre\+Web\+Scraper}}
+\begin{DoxyCompactList}\small\item\em Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top-\/ul pe genuri primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. \end{DoxyCompactList}\item 
+interface \mbox{\hyperlink{interface_web_crawl_1_1_i_implementation_web_scraper}{IImplementation\+Web\+Scraper}}
+\begin{DoxyCompactList}\small\item\em Interfata pentru implementarile concrete a metodelor de a extage informatiile dorite in funtie de pagina. \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_implementation_web_scraper_all}{Implementation\+Web\+Scraper\+All}}
+\begin{DoxyCompactList}\small\item\em Clasa care implementează interfața IImplementation\+Web\+Scraper. Are funcționalitatea de a explora un document HTML și de a crea obiecte de tip Movie cu informațiile găsite. \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_implementation_web_scraper_years}{Implementation\+Web\+Scraper\+Years}}
+\begin{DoxyCompactList}\small\item\em Clasa care implementează interfața IImplementation\+Web\+Scraper. Are funcționalitatea de a explora un document HTML ce conține topul unor filme lansate într-\/un anumit an și de a crea obiecte de tip Movie cu informațiile găsite. \end{DoxyCompactList}\item 
+interface \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper}{IWeb\+Scraper}}
+\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_web_crawler}{Web\+Crawler}}
+\begin{DoxyCompactList}\small\item\em Clasa care ține locul cretorului in Factory Pattern pentru a creea diverse tipuri de Web Scrapers. \end{DoxyCompactList}\item 
+class \mbox{\hyperlink{class_web_crawl_1_1_year_web_scraper}{Year\+Web\+Scraper}}
+\begin{DoxyCompactList}\small\item\em Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme în funcție de popularitate primind ca argument anul lansării. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. \end{DoxyCompactList}\end{DoxyCompactItemize}

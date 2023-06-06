@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Packages"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Package List"><param name="Local" value="namespaces.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl"><param name="Local" value="namespace_web_crawl.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AllWebScreaper"><param name="Local" value="class_web_crawl_1_1_all_web_screaper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_all_web_screaper.html#ac9a772b88c54aa5622f725f86047f31f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenreWebScraper"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenreWebScraper"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html#af447c1e56e132cffec4aceef92ddba6d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html#a39646b7f6ba7e3216ded81498d7ab500"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IImplementationWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_implementation_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperAll"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_all.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_all.html#a9217c8a7214e4312e7f8ead04a9f7922"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperYears"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_years.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_years.html#adbe337f3222ac894e41249099d811c8b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="interface_web_crawl_1_1_i_web_scraper.html#a0e4bbdc603d787e973f014054f59a9aa"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawler"><param name="Local" value="class_web_crawl_1_1_web_crawler.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#ad2c3755bc151b12b131744be23469216"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#af9439ab595d5121dfdf486bc1380e15d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#a9fda2cbaa67db8f6ae980450d5e9feb6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="YearWebScraper"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="YearWebScraper"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html#aaec5c399b1cfc6c83c3bbba2008d4697"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html#aed7704ca7702fd200f2df8e5cfeded83"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl"><param name="Local" value="namespace_web_crawl.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AllWebScreaper"><param name="Local" value="class_web_crawl_1_1_all_web_screaper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_all_web_screaper.html#ac9a772b88c54aa5622f725f86047f31f"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GenreWebScraper"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GenreWebScraper"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html#af447c1e56e132cffec4aceef92ddba6d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html#a39646b7f6ba7e3216ded81498d7ab500"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IImplementationWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_implementation_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperAll"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_all.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_all.html#a9217c8a7214e4312e7f8ead04a9f7922"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperYears"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_years.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_years.html#adbe337f3222ac894e41249099d811c8b"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="interface_web_crawl_1_1_i_web_scraper.html#a0e4bbdc603d787e973f014054f59a9aa"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawler"><param name="Local" value="class_web_crawl_1_1_web_crawler.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#ad2c3755bc151b12b131744be23469216"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#af9439ab595d5121dfdf486bc1380e15d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_web_crawler.html#a9fda2cbaa67db8f6ae980450d5e9feb6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="YearWebScraper"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="YearWebScraper"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html#aaec5c399b1cfc6c83c3bbba2008d4697"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html#aed7704ca7702fd200f2df8e5cfeded83"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperGenres"><param name="Local" value="class_implementation_web_scraper_genres.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetMovies"><param name="Local" value="class_implementation_web_scraper_genres.html#ae60037c94c422564d6cd6d9760ddfb5a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.IImplementationWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_implementation_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ImplementationWebScraperGenres"><param name="Local" value="class_implementation_web_scraper_genres.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.ImplementationWebScraperAll"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_all.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.ImplementationWebScraperYears"><param name="Local" value="class_web_crawl_1_1_implementation_web_scraper_years.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.IWebScraper"><param name="Local" value="interface_web_crawl_1_1_i_web_scraper.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.AllWebScreaper"><param name="Local" value="class_web_crawl_1_1_all_web_screaper.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.GenreWebScraper"><param name="Local" value="class_web_crawl_1_1_genre_web_scraper.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.YearWebScraper"><param name="Local" value="class_web_crawl_1_1_year_web_scraper.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="WebCrawl.WebCrawler"><param name="Local" value="class_web_crawl_1_1_web_crawler.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

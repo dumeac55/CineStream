@@ -1,0 +1,55 @@
+\hypertarget{class_web_crawl_1_1_all_web_screaper}{}\doxysection{Web\+Crawl.\+All\+Web\+Screaper Class Reference}
+\label{class_web_crawl_1_1_all_web_screaper}\index{WebCrawl.AllWebScreaper@{WebCrawl.AllWebScreaper}}
+
+
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului.  
+
+
+Inheritance diagram for Web\+Crawl.\+All\+Web\+Screaper\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_web_crawl_1_1_all_web_screaper}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+Movie\+List \mbox{\hyperlink{class_web_crawl_1_1_all_web_screaper_ac9a772b88c54aa5622f725f86047f31f}{Get\+Movies}} (int movies\+Nr)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul principal IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\begin{DoxyCompactItemize}
+\item 
+Movie\+List \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Get\+Movies}} (int nr\+Movies)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe una din paginile IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. 
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_web_crawl_1_1_all_web_screaper_ac9a772b88c54aa5622f725f86047f31f}\label{class_web_crawl_1_1_all_web_screaper_ac9a772b88c54aa5622f725f86047f31f}} 
+\index{WebCrawl.AllWebScreaper@{WebCrawl.AllWebScreaper}!GetMovies@{GetMovies}}
+\index{GetMovies@{GetMovies}!WebCrawl.AllWebScreaper@{WebCrawl.AllWebScreaper}}
+\doxysubsubsection{\texorpdfstring{GetMovies()}{GetMovies()}}
+{\footnotesize\ttfamily Movie\+List Web\+Crawl.\+All\+Web\+Screaper.\+Get\+Movies (\begin{DoxyParamCaption}\item[{int}]{movies\+Nr }\end{DoxyParamCaption})}
+
+
+
+Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul principal IMDb. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em movies\+Nr} & Numărul de filme de returnat\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O listă de filme
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Web\+Crawl.\+IWeb\+Scraper}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Web\+Crawl/All\+Web\+Screaper.\+cs\end{DoxyCompactItemize}

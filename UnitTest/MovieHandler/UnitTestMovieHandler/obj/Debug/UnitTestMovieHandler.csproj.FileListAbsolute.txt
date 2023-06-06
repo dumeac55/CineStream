@@ -1,0 +1,17 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\UnitTestMovieHandler.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\UnitTestMovieHandler.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\MovieHandler.exe
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\MovieHandler.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\MovieHandler.exe.config
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\obj\Debug\UnitTestMovieHandler.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\obj\Debug\UnitTestMovieHandler.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\obj\Debug\UnitTestMovieHandler.csproj.CopyComplete
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\obj\Debug\UnitTestMovieHandler.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\MovieHandler\UnitTestMovieHandler\obj\Debug\UnitTestMovieHandler.pdb

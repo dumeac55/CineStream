@@ -1,0 +1,10 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\bin\Debug\WebCrawl.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\bin\Debug\WebCrawl.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\bin\Debug\HtmlAgilityPack.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\bin\Debug\HtmlAgilityPack.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\bin\Debug\HtmlAgilityPack.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\obj\Debug\WebCrawl.csproj.AssemblyReference.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\obj\Debug\WebCrawl.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\obj\Debug\WebCrawl.csproj.CopyComplete
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\obj\Debug\WebCrawl.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\New folder\WebCrawl\WebCrawl\obj\Debug\WebCrawl.pdb

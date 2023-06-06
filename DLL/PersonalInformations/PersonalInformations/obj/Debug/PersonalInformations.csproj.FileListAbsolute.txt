@@ -1,0 +1,7 @@
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\bin\Debug\PersonalInformations.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\bin\Debug\PersonalInformations.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\obj\Debug\PersonalInformations.csproj.CoreCompileInputs.cache
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\obj\Debug\PersonalInformations.dll
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\obj\Debug\PersonalInformations.pdb
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\bin\Debug\PersonalInformations.xml
+D:\An3-Sem2\IP\Priect_ConsoleApps\DDLS\PersonalInformations\PersonalInformations\obj\Debug\PersonalInformations.csproj.AssemblyReference.cache

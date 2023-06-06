@@ -1,0 +1,75 @@
+\hypertarget{class_web_crawl_1_1_genre_web_scraper}{}\doxysection{Web\+Crawl.\+Genre\+Web\+Scraper Class Reference}
+\label{class_web_crawl_1_1_genre_web_scraper}\index{WebCrawl.GenreWebScraper@{WebCrawl.GenreWebScraper}}
+
+
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top-\/ul pe genuri primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului.  
+
+
+Inheritance diagram for Web\+Crawl.\+Genre\+Web\+Scraper\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_web_crawl_1_1_genre_web_scraper}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_web_crawl_1_1_genre_web_scraper_af447c1e56e132cffec4aceef92ddba6d}{Genre\+Web\+Scraper}} (string genre)
+\begin{DoxyCompactList}\small\item\em Constructor cu un argument care setează genul filmelor căutate. \end{DoxyCompactList}\item 
+Movie\+List \mbox{\hyperlink{class_web_crawl_1_1_genre_web_scraper_a39646b7f6ba7e3216ded81498d7ab500}{Get\+Movies}} (int movies\+Nr)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul principal IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\begin{DoxyCompactItemize}
+\item 
+Movie\+List \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Get\+Movies}} (int nr\+Movies)
+\begin{DoxyCompactList}\small\item\em Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe una din paginile IMDb. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Clasa care implementează interfața IWeb\+Scraper și are funcționalitatea de a selecta primele filme din top-\/ul pe genuri primind ca argument un număr de filme. Această clasă utilizează un obiect implementation\+Web\+Scraper care separă abstractizarea de implementare, ilustrând design pattern-\/ul \char`\"{}\+Bridge\char`\"{} deoarece modalitatea de extragere a informațiilor poate fi modificată odată cu modificarea site-\/ului. 
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{class_web_crawl_1_1_genre_web_scraper_af447c1e56e132cffec4aceef92ddba6d}\label{class_web_crawl_1_1_genre_web_scraper_af447c1e56e132cffec4aceef92ddba6d}} 
+\index{WebCrawl.GenreWebScraper@{WebCrawl.GenreWebScraper}!GenreWebScraper@{GenreWebScraper}}
+\index{GenreWebScraper@{GenreWebScraper}!WebCrawl.GenreWebScraper@{WebCrawl.GenreWebScraper}}
+\doxysubsubsection{\texorpdfstring{GenreWebScraper()}{GenreWebScraper()}}
+{\footnotesize\ttfamily Web\+Crawl.\+Genre\+Web\+Scraper.\+Genre\+Web\+Scraper (\begin{DoxyParamCaption}\item[{string}]{genre }\end{DoxyParamCaption})}
+
+
+
+Constructor cu un argument care setează genul filmelor căutate. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em genre} & Genul filmelor căutate\\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_web_crawl_1_1_genre_web_scraper_a39646b7f6ba7e3216ded81498d7ab500}\label{class_web_crawl_1_1_genre_web_scraper_a39646b7f6ba7e3216ded81498d7ab500}} 
+\index{WebCrawl.GenreWebScraper@{WebCrawl.GenreWebScraper}!GetMovies@{GetMovies}}
+\index{GetMovies@{GetMovies}!WebCrawl.GenreWebScraper@{WebCrawl.GenreWebScraper}}
+\doxysubsubsection{\texorpdfstring{GetMovies()}{GetMovies()}}
+{\footnotesize\ttfamily Movie\+List Web\+Crawl.\+Genre\+Web\+Scraper.\+Get\+Movies (\begin{DoxyParamCaption}\item[{int}]{movies\+Nr }\end{DoxyParamCaption})}
+
+
+
+Metodă care returnează o listă cu obiecte de tip Movie folosind date extrase de pe top-\/ul principal IMDb. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em movies\+Nr} & Numărul de filme de returnat\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+O listă de filme
+\end{DoxyReturn}
+
+
+Implements \mbox{\hyperlink{interface_web_crawl_1_1_i_web_scraper_a0e4bbdc603d787e973f014054f59a9aa}{Web\+Crawl.\+IWeb\+Scraper}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Web\+Crawl/Genre\+Web\+Scraper.\+cs\end{DoxyCompactItemize}
